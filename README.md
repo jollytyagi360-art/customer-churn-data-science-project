@@ -36,7 +36,7 @@ This project focuses on:
 ---
 
 ## Power BI Dashboard
-![Dashboard](reports/dashboard.png)
+![Dashboard](reports/dashboard.png.png)
 
 ---
 
